@@ -7,6 +7,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 Unsorted
 --------
+* [Anarchy Golf](http://golf.shinh.org)
 * [Code Chef](http://www.codechef.com)
 * [Code Kata](http://codekata.pragprog.com)
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
