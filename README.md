@@ -9,7 +9,6 @@ Puzzles, challenges, games, CTFs, and other entertainment via coding
 * [HackerRank](https://www.hackerrank.com)
 * [Programming Praxis](http://programmingpraxis.com)
 * [Project Euler](http://projecteuler.net)
-* [Python Challenge](http://www.pythonchallenge.com)
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
 
 Capture the Flag
@@ -21,4 +20,5 @@ Language-specific
 -----------------
 * [C Puzzles](http://www.gowrikumar.com/c/)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
+* [Python Challenge](http://www.pythonchallenge.com)
 * [Ruby Quiz](http://rubyquiz.com)
