@@ -12,6 +12,7 @@ Unsorted
 * [Programming Praxis](http://programmingpraxis.com)
 * [Project Euler](http://projecteuler.net)
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
+* [Stack Overflow list](http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
 
 Capture the Flag
 ----------------
