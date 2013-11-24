@@ -1,7 +1,7 @@
 coding-entertainment
 ====================
 
-Puzzles, challenges, games, CTFs, and other entertainment via coding
+This is a list of puzzles, challenges, games, CTFs, and other entertainment via coding. It can include everything from ACM-style competitions to challenges designed to teach specific languages or programming paradigms. If you would like to see some added, please feel free to open an issue or (even better) submit a pull request.
 
 Unsorted
 --------
