@@ -6,7 +6,6 @@ Puzzles, challenges, games, CTFs, and other entertainment via coding
 * [Al Zimmerman's Programming Contests](http://www.azspcs.net)
 * [C Puzzles](http://www.gowrikumar.com/c/)
 * [Code Kata](http://codekata.pragprog.com)
-* [Coderbyte](http://coderbyte.com)
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 * [HackerRank](https://www.hackerrank.com)
 * [Programming Praxis](http://programmingpraxis.com)
