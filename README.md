@@ -3,7 +3,9 @@ coding-entertainment
 
 Puzzles, challenges, games, CTFs, and other entertainment via coding
 
-* [Al Zimmerman's Programming Contests](http://www.azspcs.net)
+Unsorted
+--------
+* [Code Chef](http://www.codechef.com)
 * [Code Kata](http://codekata.pragprog.com)
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 * [HackerRank](https://www.hackerrank.com)
@@ -15,6 +17,14 @@ Capture the Flag
 ----------------
 * [CTF Time](http://ctftime.org/event/list/)
 * [Practice CTF List](http://captf.com/practice-ctf/)
+
+Contests
+--------
+* [Al Zimmerman's Programming Contests](http://www.azspcs.net)
+* [Annual Berkeley Programming Contest](http://www.cs.berkeley.edu/~hilfingr/programming-contest/index.html)
+* [Open Directory Project - Programming Contests](http://www.dmoz.org/Computers/Programming/Contests/)
+* [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
+* [TopCoder](http://community.topcoder.com/tc)
 
 Language-specific
 -----------------
