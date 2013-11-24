@@ -13,6 +13,7 @@ Unsorted
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 * [HackerRank](https://www.hackerrank.com)
 * [Programming Praxis](http://programmingpraxis.com)
+* [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com)
 * [Project Euler](http://projecteuler.net)
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
 * [Stack Overflow list](http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
