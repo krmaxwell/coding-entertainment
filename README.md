@@ -37,6 +37,7 @@ Games
 -----
 * [Corewar](http://corewar.co.uk/)
 * [Crobots](https://github.com/tpoindex/crobots/)
+* [Mouse Run](http://mouse-run.appspot.com/)
 
 Language-specific
 -----------------
