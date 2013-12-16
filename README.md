@@ -17,7 +17,11 @@ Inbox
 [Capture the Flag](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
 ------------------
 * [CTF Time](http://ctftime.org/event/list/)
+* [CTF365](http://ctf365.com/)
+* [p0wnlabs](http://p0wnlabs.com/)
 * [Practice CTF List](http://captf.com/practice-ctf/)
+* [RootMe](http://www.root-me.org/en/Challenges/)
+* [Stack Exchange list](http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
 
 [Code Golf](http://en.wikipedia.org/wiki/Code_golf)
 -----------
