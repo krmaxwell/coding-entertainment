@@ -1,7 +1,7 @@
 coding-entertainment
 ====================
 
-This is a list of puzzles, challenges, games, CTFs, and other entertainment via coding. It can include everything from ACM-style competitions to challenges designed to teach specific languages or programming paradigms. If you would like to see some added, please feel free to open an issue or (even better) submit a pull request.
+This is a list of puzzles, challenges, games, CTFs, and other entertainment via coding. It can include everything from [ACM-style competitions](http://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest) to challenges designed to teach specific languages or programming paradigms. If you would like to see some added, please feel free to open an issue or (even better) submit a pull request.
 
 NOTE: This list is in the public domain but I would appreciate a link back or at least a mention of where you got it if you repost it someplace.
 
