@@ -1,11 +1,11 @@
-coding-entertainment
+Coding Entertainment
 ====================
 
 This is a list of puzzles, challenges, games, CTFs, and other entertainment via coding. It can include everything from [ACM-style competitions](http://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest) to challenges designed to teach specific languages or programming paradigms. If you would like to see some added, please feel free to open an issue or (even better) submit a pull request.
 
 NOTE: This list is in the public domain but I would appreciate a link back or at least a mention of where you got it if you repost it someplace.
 
-Unsorted
+Inbox
 --------
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 * [HackerRank](https://www.hackerrank.com)
@@ -14,8 +14,8 @@ Unsorted
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
 * [Stack Overflow list](http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
 
-Capture the Flag
-----------------
+[Capture the Flag](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security
+------------------
 * [CTF Time](http://ctftime.org/event/list/)
 * [Practice CTF List](http://captf.com/practice-ctf/)
 
@@ -33,8 +33,8 @@ Contests
 * [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
 * [TopCoder](http://community.topcoder.com/tc)
 
-Games
------
+[Games](http://programminggames.org/)
+-------
 * [Corewar](http://corewar.co.uk/)
 * [Crobots](https://github.com/tpoindex/crobots/)
 * [Mouse Run](http://mouse-run.appspot.com/)
