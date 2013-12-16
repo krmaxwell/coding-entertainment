@@ -7,13 +7,11 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 Unsorted
 --------
-* [Anarchy Golf](http://golf.shinh.org)
 * [Code Chef](http://www.codechef.com)
 * [Code Kata](http://codekata.pragprog.com)
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 * [HackerRank](https://www.hackerrank.com)
 * [Programming Praxis](http://programmingpraxis.com)
-* [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com)
 * [Project Euler](http://projecteuler.net)
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
 * [Stack Overflow list](http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
@@ -22,6 +20,11 @@ Capture the Flag
 ----------------
 * [CTF Time](http://ctftime.org/event/list/)
 * [Practice CTF List](http://captf.com/practice-ctf/)
+
+[Code Golf](http://en.wikipedia.org/wiki/Code_golf)
+-----------
+* [Anarchy Golf](http://golf.shinh.org)
+* [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com)
 
 Contests
 --------
