@@ -7,7 +7,6 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 Unsorted
 --------
-* [Code Chef](http://www.codechef.com)
 * [Code Kata](http://codekata.pragprog.com)
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 * [HackerRank](https://www.hackerrank.com)
@@ -30,6 +29,7 @@ Contests
 --------
 * [Al Zimmerman's Programming Contests](http://www.azspcs.net)
 * [Annual Berkeley Programming Contest](http://www.cs.berkeley.edu/~hilfingr/programming-contest/index.html)
+* [Code Chef](http://www.codechef.com)
 * [Open Directory Project - Programming Contests](http://www.dmoz.org/Computers/Programming/Contests/)
 * [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
 * [TopCoder](http://community.topcoder.com/tc)
