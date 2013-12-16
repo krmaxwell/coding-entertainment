@@ -38,6 +38,8 @@ Games
 * [Corewar](http://corewar.co.uk/)
 * [Crobots](https://github.com/tpoindex/crobots/)
 * [Mouse Run](http://mouse-run.appspot.com/)
+* [Robocode](http://robocode.sourceforge.net/)
+* [TORCS Racing Board](http://www.berniw.org/trb/)
 
 Language-specific
 -----------------
