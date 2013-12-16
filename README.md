@@ -32,11 +32,13 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Anarchy Golf](http://golf.shinh.org)
 * [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com)
 
-### Contests
+### [Contests](http://en.wikipedia.org/wiki/Competitive_programming)
 
 * [Al Zimmerman's Programming Contests](http://www.azspcs.net)
 * [Annual Berkeley Programming Contest](http://www.cs.berkeley.edu/~hilfingr/programming-contest/index.html)
+* [Cloudball](http://www.cloudball.se/)
 * [Code Chef](http://www.codechef.com)
+* [Codeforces](http://codeforces.com/)
 * [Open Directory Project - Programming Contests](http://www.dmoz.org/Computers/Programming/Contests/)
 * [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
 * [TopCoder](http://community.topcoder.com/tc)
