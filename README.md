@@ -7,7 +7,6 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 Unsorted
 --------
-* [Code Kata](http://codekata.pragprog.com)
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 * [HackerRank](https://www.hackerrank.com)
 * [Programming Praxis](http://programmingpraxis.com)
