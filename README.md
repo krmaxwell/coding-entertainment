@@ -33,6 +33,11 @@ Contests
 * [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
 * [TopCoder](http://community.topcoder.com/tc)
 
+Games
+-----
+* [Corewar](http://corewar.co.uk/)
+* [Crobots](https://github.com/tpoindex/crobots/)
+
 Language-specific
 -----------------
 * [C Puzzles](http://www.gowrikumar.com/c/)
