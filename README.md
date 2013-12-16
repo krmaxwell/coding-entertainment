@@ -14,7 +14,7 @@ Inbox
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
 * [Stack Overflow list](http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
 
-[Capture the Flag](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security
+[Capture the Flag](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
 ------------------
 * [CTF Time](http://ctftime.org/event/list/)
 * [Practice CTF List](http://captf.com/practice-ctf/)
