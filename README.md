@@ -31,6 +31,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 * [Anarchy Golf](http://golf.shinh.org)
 * [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com)
+* [Regex Golf](http://regex.alf.nu/)
 
 ### [Contests](http://en.wikipedia.org/wiki/Competitive_programming)
 
