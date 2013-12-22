@@ -22,6 +22,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 * [CTF Time](http://ctftime.org/event/list/)
 * [CTF365](http://ctf365.com/)
+* [ISIS Lab CTF Challenges repository](https://github.com/isislab/CTF-Challenges)
 * [p0wnlabs](http://p0wnlabs.com/)
 * [Practice CTF List](http://captf.com/practice-ctf/)
 * [RootMe](http://www.root-me.org/en/Challenges/)
