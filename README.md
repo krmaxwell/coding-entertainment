@@ -49,9 +49,15 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 ### [Games](http://programminggames.org/)
 
+* [BerryBots](http://playberrybots.com/)
+* [CeeBot](http://www.ceebot.com/ceebot/index-e.php)
+* [COLOBOT](http://www.ceebot.com/colobot/game-e.php)
 * [Corewar](http://corewar.co.uk/)
 * [Crobots](https://github.com/tpoindex/crobots/)
+* [Grobots](http://grobots.sourceforge.net/)
+* [Infon Battle Arena](http://infon.dividuum.de/)
 * [Mouse Run](http://mouse-run.appspot.com/)
+* [NessBots](http://www.nessbots.com/)
 * [Robocode](http://robocode.sourceforge.net/)
 * [TORCS Racing Board](http://www.berniw.org/trb/)
 
