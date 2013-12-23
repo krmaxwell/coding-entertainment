@@ -7,6 +7,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 ## Uncategorized
 
+* [Bug Bounty List](https://bugcrowd.com/list-of-bug-bounty-programs)
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 * [HackerRank](https://www.hackerrank.com)
 * [Programming Praxis](http://programmingpraxis.com)
