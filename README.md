@@ -11,7 +11,6 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 * [HackerRank](https://www.hackerrank.com)
 * [Programming Praxis](http://programmingpraxis.com)
-* [Project Euler](http://projecteuler.net)
 
 ## General Resources
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
@@ -47,6 +46,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Kaggle](http://www.kaggle.com/competitions)
 * [Open Directory Project - Programming Contests](http://www.dmoz.org/Computers/Programming/Contests/)
 * [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
+* [Project Euler](http://projecteuler.net)
 * [TopCoder](http://community.topcoder.com/tc)
 
 ### [Games](http://programminggames.org/)
