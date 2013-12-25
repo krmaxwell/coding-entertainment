@@ -44,6 +44,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Cloudball](http://www.cloudball.se/)
 * [Code Chef](http://www.codechef.com)
 * [Codeforces](http://codeforces.com/)
+* [Kaggle](http://www.kaggle.com/competitions)
 * [Open Directory Project - Programming Contests](http://www.dmoz.org/Computers/Programming/Contests/)
 * [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
 * [TopCoder](http://community.topcoder.com/tc)
