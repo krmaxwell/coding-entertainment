@@ -53,6 +53,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 * [BerryBots](http://playberrybots.com/)
 * [CeeBot](http://www.ceebot.com/ceebot/index-e.php)
+* [CodeCombat](http://codecombat.com/)
 * [COLOBOT](http://www.ceebot.com/colobot/game-e.php)
 * [Corewar](http://corewar.co.uk/)
 * [Crobots](https://github.com/tpoindex/crobots/)
