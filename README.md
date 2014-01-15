@@ -12,6 +12,11 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [HackerRank](https://www.hackerrank.com)
 * [Praetorian Tech Puzzles](http://www.praetorian.com/challenges/)
 * [Programming Praxis](http://programmingpraxis.com)
+* [Sphere Online Judge](http://www.spoj.com/problems/classical/)
+* [Pineapple](http://pineapple.io/resources/tagged/challenges)
+* [Leetcode Online Judge](http://oj.leetcode.com/problems/)
+* [UVa Online Judge](http://uva.onlinejudge.org/index.php)
+* [uHunt](http://uhunt.felix-halim.net/id/339)
 
 ## General Resources
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
