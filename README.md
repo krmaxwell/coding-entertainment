@@ -14,6 +14,9 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Programming Praxis](http://programmingpraxis.com)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical/)
 * [Pineapple](http://pineapple.io/resources/tagged/challenges)
+* [Leetcode Online Judge](http://oj.leetcode.com/problems/)
+* [UVa Online Judge](http://uva.onlinejudge.org/index.php)
+* [uHunt](http://uhunt.felix-halim.net/id/339)
 
 ## General Resources
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
@@ -29,7 +32,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [ISIS Lab CTF Challenges repository](https://github.com/isislab/CTF-Challenges)
 * [NICCS Cyber Competitions Repository](http://niccs.us-cert.gov/education/cyber-competitions-repository)
 * [OverTheWire Wargames](http://www.overthewire.org/wargames/)
-s* [p0wnlabs](http://p0wnlabs.com/)
+* [p0wnlabs](http://p0wnlabs.com/)
 * [Practice CTF List](http://captf.com/practice-ctf/)
 * [RootMe](http://www.root-me.org/en/Challenges/)
 * [SmashTheStack Wargaming](http://smashthestack.org/)
