@@ -44,6 +44,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Anarchy Golf](http://golf.shinh.org)
 * [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com)
 * [Regex Golf](http://regex.alf.nu/)
+* [Vim Golf](http://vimgolf.com/)
 
 ### [Contests](http://en.wikipedia.org/wiki/Competitive_programming)
 
@@ -52,11 +53,13 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Cloudball](http://www.cloudball.se/)
 * [Code Chef](http://www.codechef.com)
 * [Codeforces](http://codeforces.com/)
+* [International Obfuscated C Code Contest](http://ioccc.org/)
 * [Kaggle](http://www.kaggle.com/competitions)
 * [Open Directory Project - Programming Contests](http://www.dmoz.org/Computers/Programming/Contests/)
 * [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
 * [Project Euler](http://projecteuler.net)
 * [TopCoder](http://community.topcoder.com/tc)
+* [Underhanded C Contest](http://underhanded.xcott.com/)
 
 ### [Games](http://programminggames.org/)
 
@@ -66,12 +69,18 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [COLOBOT](http://www.ceebot.com/colobot/game-e.php)
 * [Corewar](http://corewar.co.uk/)
 * [Crobots](https://github.com/tpoindex/crobots/)
+* [DroidQuest](http://www.droidquest.com/)
 * [Grobots](http://grobots.sourceforge.net/)
 * [Infon Battle Arena](http://infon.dividuum.de/)
 * [Mouse Run](http://mouse-run.appspot.com/)
 * [NessBots](http://www.nessbots.com/)
+* [Regex Crossword](http://regexcrossword.com/)
 * [Robocode](http://robocode.sourceforge.net/)
 * [TORCS Racing Board](http://www.berniw.org/trb/)
+
+
+### General practice
+* [Coding for Interviews](http://codingforinterviews.com/)
 
 ### Language-specific
 
