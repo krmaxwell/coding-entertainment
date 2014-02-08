@@ -82,6 +82,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 
 ### General practice
+* [Codewars](http://www.codewars.com)
 * [Coding for Interviews](http://codingforinterviews.com/)
 
 ### Language-specific
