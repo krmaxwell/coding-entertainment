@@ -62,6 +62,10 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [TopCoder](http://community.topcoder.com/tc)
 * [Underhanded C Contest](http://underhanded.xcott.com/)
 
+### [Crackmes](http://en.wikipedia.org/wiki/Crackme)
+* [Crackmes.de](http://www.crackmes.de/)
+* [Think Devise Hack](http://tdhack.com/)
+
 ### [Games](http://programminggames.org/)
 
 * [BerryBots](http://playberrybots.com/)
