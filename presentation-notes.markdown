@@ -9,20 +9,19 @@ This talk has something for all skill levels, also. Whether you're an old hand a
 ## Outline
 
 - Introduction
-  - Motivation
+  - Motivation: because hacking is fun and you want to do your root dance
   - Overview
 - Capture the Flag
   - Red Team vs Jeopardy (and variations)
-  - Online vs offline
-  - Relevant skills
+  - Online vs offline: hint, there are plenty you can do without travel
+  - Relevant skills: webapp, shellcode, OSINT, reverse engineering, etc.
 - Games
-  - VERY brief history
-  - Examples
+  - VERY brief history: Core War, Robot War
+  - Examples: CodeCombat, etc. Don't forget [DefconBots](http://defconbots.org)
 - Contests
-  - ACM style
-  - Code golf
-  - Project Euler
+  - ACM style: largely algorithmic, sometimes string processing
+  - Code golf (also regex golf and vim golf)
+  - Project Euler: math!
 - Conclusion
-  - Resources
-  - Inspiration
+  - Resources: my GitHub, site coming soon
   - Q&A
