@@ -20,7 +20,7 @@ This talk has something for all skill levels, also. Whether you're an old hand a
   - Examples: CodeCombat, etc. Don't forget [DefconBots](http://defconbots.org)
 - Contests
   - ACM style: largely algorithmic, sometimes string processing
-  - Code golf (also regex golf and vim golf)
+  - Code golf (also regex golf and vim golf - shellcode golf is a thing too!)
   - Project Euler: math!
 - Conclusion
   - Resources: my GitHub, site coming soon
