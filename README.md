@@ -35,6 +35,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [NICCS Cyber Competitions Repository](http://niccs.us-cert.gov/education/cyber-competitions-repository)
 * [OverTheWire Wargames](http://www.overthewire.org/wargames/)
 * [p0wnlabs](http://p0wnlabs.com/)
+* [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/Practice.html)
 * [Practice CTF List](http://captf.com/practice-ctf/)
 * [RootMe](http://www.root-me.org/en/Challenges/)
 * [SmashTheStack Wargaming](http://smashthestack.org/)
