@@ -76,6 +76,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Corewar](http://corewar.co.uk/)
 * [Crobots](https://github.com/tpoindex/crobots/)
 * [DroidQuest](http://www.droidquest.com/)
+* [Glitchspace](https://indiegamestand.com/store/796/glitchspace/)
 * [Grobots](http://grobots.sourceforge.net/)
 * [Infon Battle Arena](http://infon.dividuum.de/)
 * [Mouse Run](http://mouse-run.appspot.com/)
