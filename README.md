@@ -95,6 +95,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 ### Language-specific
 
 * [C Puzzles](http://www.gowrikumar.com/c/)
+* [CodingBat](http://codingbat.com/) (Java and Python)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 * [Python Challenge](http://www.pythonchallenge.com)
 * [Ruby Quiz](http://rubyquiz.com)
