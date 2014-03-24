@@ -72,6 +72,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 * [BerryBots](http://playberrybots.com/)
 * [CeeBot](http://www.ceebot.com/ceebot/index-e.php)
+* [CheckiO](http://www.checkio.org/)
 * [CodeCombat](http://codecombat.com/)
 * [COLOBOT](http://www.ceebot.com/colobot/game-e.php)
 * [Command Line Murders](https://github.com/veltman/clmystery)
