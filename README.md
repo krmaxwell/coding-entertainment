@@ -56,6 +56,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Codeforces](http://codeforces.com/)
 * [International Obfuscated C Code Contest](http://ioccc.org/)
 * [Kaggle](http://www.kaggle.com/competitions)
+* [Mystery Twister](https://www.mysterytwisterc3.org/en/)
 * [Open Directory Project - Programming Contests](http://www.dmoz.org/Computers/Programming/Contests/)
 * [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
 * [Project Euler](http://projecteuler.net)
