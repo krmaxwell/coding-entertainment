@@ -55,6 +55,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Cloudball](http://www.cloudball.se/)
 * [Code Chef](http://www.codechef.com)
 * [Codeforces](http://codeforces.com/)
+* [Google Code Jam](https://code.google.com/codejam/contests.html)
 * [International Obfuscated C Code Contest](http://ioccc.org/)
 * [Kaggle](http://www.kaggle.com/competitions)
 * [Mystery Twister](https://www.mysterytwisterc3.org/en/)
