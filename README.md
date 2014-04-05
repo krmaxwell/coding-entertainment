@@ -40,6 +40,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [RootMe](http://www.root-me.org/en/Challenges/)
 * [SmashTheStack Wargaming](http://smashthestack.org/)
 * [Stack Exchange list](http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
+* [ThreatSPACE](http://threatspace.net/)
 
 ### [Code Golf](http://en.wikipedia.org/wiki/Code_golf)
 
