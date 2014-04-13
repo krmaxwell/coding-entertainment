@@ -8,9 +8,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 ## Uncategorized
 
 * [Bug Bounty List](https://bugcrowd.com/list-of-bug-bounty-programs)
-* [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 * [HackerRank](https://www.hackerrank.com)
-* [Praetorian Tech Puzzles](http://www.praetorian.com/challenges/)
 * [Programming Praxis](http://programmingpraxis.com)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical/)
 * [Pineapple](http://pineapple.io/resources/tagged/challenges)
@@ -67,6 +65,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Underhanded C Contest](http://underhanded.xcott.com/)
 
 ### [Crackmes](http://en.wikipedia.org/wiki/Crackme)
+
 * [Crackmes.de](http://www.crackmes.de/)
 * [Think Devise Hack](http://tdhack.com/)
 
@@ -90,10 +89,16 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Robocode](http://robocode.sourceforge.net/)
 * [TORCS Racing Board](http://www.berniw.org/trb/)
 
-
 ### General practice
+
 * [Codewars](http://www.codewars.com)
 * [Coding for Interviews](http://codingforinterviews.com/)
+
+### Hiring challenges
+
+* [CodeEval](https://www.codeeval.com/)
+* [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
+* [Praetorian Tech Puzzles](http://www.praetorian.com/challenges/)
 
 ### Language-specific
 
