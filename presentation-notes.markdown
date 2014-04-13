@@ -1,6 +1,6 @@
 # Presentation Notes
 
-## Abstract for Submission
+## Abstract for BSides San Antonio (May 2014)
 
 Rather than raid for more epic purples on your Level 90 Dwarven Warrior or boomheadshot some n00bs, you can spend your "gaming" time doing what we love best: hacking for sheer entertainment value. We'll talk about all sorts of different ways to do this, from hacking CTFs to mathlete coding competions.
 
@@ -12,7 +12,7 @@ This talk has something for all skill levels, also. Whether you're an old hand a
   - Motivation: because hacking is fun and you want to do your root dance
   - Overview
 - Capture the Flag
-  - Red Team vs Jeopardy (and variations)
+  - Red Team vs Jeopardy (and variations like "Hackenger Hunt")
   - Online vs offline: hint, there are plenty you can do without travel
   - Relevant skills: webapp, shellcode, OSINT, reverse engineering, etc.
 - Games
@@ -23,5 +23,5 @@ This talk has something for all skill levels, also. Whether you're an old hand a
   - Code golf (also regex golf and vim golf - shellcode golf is a thing too!)
   - Project Euler: math!
 - Conclusion
-  - Resources: my GitHub, site coming soon
+  - Resources: [Hackertainment](http://hackertainment.net)
   - Q&A
