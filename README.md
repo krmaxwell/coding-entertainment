@@ -7,7 +7,6 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 ## Uncategorized
 
-* [Bug Bounty List](https://bugcrowd.com/list-of-bug-bounty-programs)
 * [HackerRank](https://www.hackerrank.com)
 * [Programming Praxis](http://programmingpraxis.com)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical/)
@@ -25,6 +24,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 ### [Capture the Flag](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
 
 * [Baidu CTF](http://bctf.cn) (in Chinese)
+* [Bug Bounty List](https://bugcrowd.com/list-of-bug-bounty-programs) (not really a CTF)
 * [Cryptogeddon](http://cryptogeddon.com/)
 * [CTF Time](http://ctftime.org/event/list/)
 * [CTF365](http://ctf365.com/)
