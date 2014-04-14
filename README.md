@@ -6,18 +6,18 @@ This is a list of puzzles, challenges, games, CTFs, and other entertainment via 
 NOTE: This list is in the public domain but I would appreciate a link back or at least a mention of where you got it if you repost it someplace.
 
 ## General Resources
+* [CTF Time](http://ctftime.org/event/list/)
 * [Pineapple challenges](http://pineapple.io/resources/tagged/challenges)
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
 * [Stack Overflow list](http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
 
-## Categories
+## Security
 
 ### [Capture the Flag](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
 
 * [Baidu CTF](http://bctf.cn) (in Chinese)
 * [Bug Bounty List](https://bugcrowd.com/list-of-bug-bounty-programs) (not really a CTF)
 * [Cryptogeddon](http://cryptogeddon.com)
-* [CTF Time](http://ctftime.org/event/list/)
 * [CTF365](http://ctf365.com)
 * [Embedded Security](https://microcorruption.com)
 * [ISIS Lab CTF Challenges repository](https://github.com/isislab/CTF-Challenges)
@@ -31,6 +31,15 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Sphere Online Judge](http://www.spoj.com/problems/classical/)
 * [Stack Exchange list](http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
 * [ThreatSPACE](http://threatspace.net)
+
+### [Crackmes](http://en.wikipedia.org/wiki/Crackme)
+
+* [Crackmes.de](http://www.crackmes.de)
+* [Crackmes.us](http://www.crackmes.us)
+* [Think Devise Hack](http://tdhack.com)
+* [Tuts 4 You](https://tuts4you.com/download.php?list.61)
+
+## Programming
 
 ### [Code Golf](http://en.wikipedia.org/wiki/Code_golf)
 
@@ -59,13 +68,6 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Underhanded C Contest](http://underhanded.xcott.com)
 * [UVa Online Judge](http://uva.onlinejudge.org)
 * [uHunt](http://uhunt.felix-halim.net/id/339) (complement to UVa Online Judge)
-
-### [Crackmes](http://en.wikipedia.org/wiki/Crackme)
-
-* [Crackmes.de](http://www.crackmes.de)
-* [Crackmes.us](http://www.crackmes.us)
-* [Think Devise Hack](http://tdhack.com)
-* [Tuts 4 You](https://tuts4you.com/download.php?list.61)
 
 ### [Games](http://programminggames.org)
 
