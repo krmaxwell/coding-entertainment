@@ -54,6 +54,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Cloudball](http://www.cloudball.se)
 * [Code Chef](http://www.codechef.com)
 * [Codeforces](http://codeforces.com)
+* [Codewars](http://www.codewars.com)
 * [Google Code Jam](https://code.google.com/codejam/contests.html)
 * [International Obfuscated C Code Contest](http://ioccc.org)
 * [Kaggle](http://www.kaggle.com/competitions)
@@ -89,14 +90,10 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Robocode](http://robocode.sourceforge.net)
 * [TORCS Racing Board](http://www.berniw.org/trb/)
 
-### General practice
-
-* [Codewars](http://www.codewars.com)
-* [Coding for Interviews](http://codingforinterviews.com)
-
 ### Hiring challenges
 
 * [CodeEval](https://www.codeeval.com)
+* [Coding for Interviews](http://codingforinterviews.com)
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 * [Praetorian Tech Puzzles](http://www.praetorian.com/challenges/)
 
