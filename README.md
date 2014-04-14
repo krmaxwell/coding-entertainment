@@ -63,7 +63,9 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 ### [Crackmes](http://en.wikipedia.org/wiki/Crackme)
 
 * [Crackmes.de](http://www.crackmes.de)
+* [Crackmes.us](http://www.crackmes.us)
 * [Think Devise Hack](http://tdhack.com)
+* [Tuts 4 You](https://tuts4you.com/download.php?list.61)
 
 ### [Games](http://programminggames.org)
 
