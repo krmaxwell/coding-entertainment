@@ -7,8 +7,6 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 ## Uncategorized
 
-* [HackerRank](https://www.hackerrank.com)
-* [Programming Praxis](http://programmingpraxis.com)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical/)
 * [Pineapple](http://pineapple.io/resources/tagged/challenges)
 * [Leetcode Online Judge](http://oj.leetcode.com/problems/)
@@ -54,6 +52,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Codeforces](http://codeforces.com)
 * [Codewars](http://www.codewars.com)
 * [Google Code Jam](https://code.google.com/codejam/contests.html)
+* [HackerRank](https://www.hackerrank.com)
 * [International Obfuscated C Code Contest](http://ioccc.org)
 * [Kaggle](http://www.kaggle.com/competitions)
 * [Mystery Twister](https://www.mysterytwisterc3.org/en/)
@@ -101,6 +100,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 * [C Puzzles](http://www.gowrikumar.com/c/)
 * [CodingBat](http://codingbat.com) (Java and Python)
+* [Programming Praxis](http://programmingpraxis.com) (Scheme)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 * [Python Challenge](http://www.pythonchallenge.com)
 * [Ruby Quiz](http://rubyquiz.com)
