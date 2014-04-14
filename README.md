@@ -5,13 +5,8 @@ This is a list of puzzles, challenges, games, CTFs, and other entertainment via 
 
 NOTE: This list is in the public domain but I would appreciate a link back or at least a mention of where you got it if you repost it someplace.
 
-## Uncategorized
-
-* [Sphere Online Judge](http://www.spoj.com/problems/classical/)
-* [Pineapple](http://pineapple.io/resources/tagged/challenges)
-* [Leetcode Online Judge](http://oj.leetcode.com/problems/)
-
 ## General Resources
+* [Pineapple challenges](http://pineapple.io/resources/tagged/challenges)
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
 * [Stack Overflow list](http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
 
@@ -33,6 +28,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Practice CTF List](http://captf.com/practice-ctf/)
 * [RootMe](http://www.root-me.org/en/Challenges/)
 * [SmashTheStack Wargaming](http://smashthestack.org)
+* [Sphere Online Judge](http://www.spoj.com/problems/classical/)
 * [Stack Exchange list](http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
 * [ThreatSPACE](http://threatspace.net)
 
@@ -94,6 +90,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [CodeEval](https://www.codeeval.com)
 * [Coding for Interviews](http://codingforinterviews.com)
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
+* [Leetcode](http://leetcode.com)
 * [Praetorian Tech Puzzles](http://www.praetorian.com/challenges/)
 
 ### Language-specific
