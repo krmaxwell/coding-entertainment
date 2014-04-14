@@ -101,3 +101,4 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 * [Python Challenge](http://www.pythonchallenge.com)
 * [Ruby Quiz](http://rubyquiz.com)
+* [Untrusted](http://alex.nisnevich.com/untrusted/) (Javascript game)
