@@ -12,8 +12,6 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Sphere Online Judge](http://www.spoj.com/problems/classical/)
 * [Pineapple](http://pineapple.io/resources/tagged/challenges)
 * [Leetcode Online Judge](http://oj.leetcode.com/problems/)
-* [UVa Online Judge](http://uva.onlinejudge.org)
-* [uHunt](http://uhunt.felix-halim.net/id/339)
 
 ## General Resources
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
@@ -64,6 +62,8 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Project Euler](http://projecteuler.net)
 * [TopCoder](http://community.topcoder.com/tc)
 * [Underhanded C Contest](http://underhanded.xcott.com)
+* [UVa Online Judge](http://uva.onlinejudge.org)
+* [uHunt](http://uhunt.felix-halim.net/id/339) (complement to UVa Online Judge)
 
 ### [Crackmes](http://en.wikipedia.org/wiki/Crackme)
 
