@@ -18,12 +18,12 @@ Whether you're an old hand at assembly coding since the 8088 or just started lea
   - DEFCON-specific CTFs: LBS, OCTF
 - Games
   - VERY brief history: Core War, Robot War
-  - Examples: CodeCombat, etc. Don't forget 
+  - Examples: CodeCombat, etc. 
 - Contests
   - ACM style: largely algorithmic, sometimes string processing
   - Code golf (also regex golf and vim golf - shellcode golf is a thing too!)
   - Project Euler: math!
   - DEFCON: Crash and Compile, [DefconBots](http://defconbots.org), Schemaverse, network forensics
 - Conclusion
-  - Resources: [Hackertainment](http://hackertainment.net)
+  - Resources: web sites and lists
   - Q&A
