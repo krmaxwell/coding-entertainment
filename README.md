@@ -89,7 +89,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Robocode](http://robocode.sourceforge.net)
 * [TORCS Racing Board](http://www.berniw.org/trb/)
 
-### Hiring challenges
+### Employment-related challenges
 
 * [CodeEval](https://www.codeeval.com)
 * [Coding for Interviews](http://codingforinterviews.com)
