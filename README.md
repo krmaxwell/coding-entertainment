@@ -35,6 +35,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 * [Crackmes.de](http://www.crackmes.de)
 * [Crackmes.us](http://www.crackmes.us)
+* [Radare examples](http://radare.nopcode.org/wiki/index.php?n=Examples.Crackme)
 * [Think Devise Hack](http://tdhack.com)
 * [Tuts 4 You](https://tuts4you.com/download.php?list.61)
 
