@@ -59,6 +59,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Codewars](http://www.codewars.com)
 * [Google Code Jam](https://code.google.com/codejam/contests.html)
 * [HackerRank](https://www.hackerrank.com)
+* [International Conference on Functional Programming Contest](http://icfpc2013.cloudapp.net)
 * [International Obfuscated C Code Contest](http://ioccc.org)
 * [Kaggle](http://www.kaggle.com/competitions)
 * [Mystery Twister](https://www.mysterytwisterc3.org/en/)
