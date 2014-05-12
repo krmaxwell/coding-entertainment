@@ -44,6 +44,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 * [Bluehat Challenge](http://blogs.technet.com/b/srd/archive/2013/07/31/the-bluehat-challenge.aspx)
 * [Crack Me If You Can](http://contest.korelogic.com) (password cracking)
+* [Matasano Crypto Challenges](http://www.matasano.com/articles/crypto-challenges/)
 
 ## Programming
 
