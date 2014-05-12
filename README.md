@@ -63,6 +63,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Code Chef](http://www.codechef.com)
 * [Codeforces](http://codeforces.com)
 * [Codewars](http://www.codewars.com)
+* [Eudyptula Challenge](http://eudyptula-challenge.org) (Linux kernel challenge)
 * [Google Code Jam](https://code.google.com/codejam/contests.html)
 * [HackerRank](https://www.hackerrank.com)
 * [International Conference on Functional Programming Contest](http://icfpc2013.cloudapp.net)
