@@ -41,6 +41,10 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Think Devise Hack](http://tdhack.com)
 * [Tuts 4 You](https://tuts4you.com/download.php?list.61)
 
+### Other
+
+* [Bluehat Challenge](http://blogs.technet.com/b/srd/archive/2013/07/31/the-bluehat-challenge.aspx)
+
 ## Programming
 
 ### [Code Golf](http://en.wikipedia.org/wiki/Code_golf)
