@@ -16,7 +16,6 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 ### [Capture the Flag](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
 
 * [Baidu CTF](http://bctf.cn) (in Chinese)
-* [Crack Me If You Can](http://contest.korelogic.com) (password cracking)
 * [Cryptogeddon](http://cryptogeddon.com)
 * [CTF365](http://ctf365.com)
 * [Embedded Security](https://microcorruption.com)
@@ -44,6 +43,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 ### Other
 
 * [Bluehat Challenge](http://blogs.technet.com/b/srd/archive/2013/07/31/the-bluehat-challenge.aspx)
+* [Crack Me If You Can](http://contest.korelogic.com) (password cracking)
 
 ## Programming
 
