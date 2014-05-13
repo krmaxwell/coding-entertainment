@@ -74,6 +74,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
 * [Project Euler](http://projecteuler.net)
 * [TopCoder](http://community.topcoder.com/tc)
+* [Tuenti Challenges](https://contest.tuenti.net/Challenges)
 * [Underhanded C Contest](http://underhanded.xcott.com)
 * [UVa Online Judge](http://uva.onlinejudge.org)
 * [uHunt](http://uhunt.felix-halim.net/id/339) (complement to UVa Online Judge)
