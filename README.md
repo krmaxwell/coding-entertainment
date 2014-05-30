@@ -9,7 +9,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [CTF Time](http://ctftime.org/event/list/)
 * [Pineapple challenges](http://pineapple.io/resources/tagged/challenges)
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
-* [Stack Overflow list](http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
+* [Stack Overflow list](http://web.archive.org/web/20131005164353/http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
 
 ## Security
 
@@ -22,6 +22,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [ISIS Lab CTF Challenges repository](https://github.com/isislab/CTF-Challenges)
 * [NICCS Cyber Competitions Repository](http://niccs.us-cert.gov/education/cyber-competitions-repository)
 * [OverTheWire Wargames](http://www.overthewire.org/wargames/)
+* [Hacking-Labs](https://www.hacking-lab.com/index.html)
 * [p0wnlabs](http://p0wnlabs.com)
 * [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/Practice.html)
 * [Practice CTF List](http://captf.com/practice-ctf/)
@@ -45,6 +46,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Bluehat Challenge](http://blogs.technet.com/b/srd/archive/2013/07/31/the-bluehat-challenge.aspx)
 * [Crack Me If You Can](http://contest.korelogic.com) (password cracking)
 * [Matasano Crypto Challenges](http://www.matasano.com/articles/crypto-challenges/)
+* [VulnHub](http://vulnhub.com/)
 
 ## Programming
 
@@ -99,6 +101,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Regex Crossword](http://regexcrossword.com)
 * [Robocode](http://robocode.sourceforge.net)
 * [TORCS Racing Board](http://www.berniw.org/trb/)
+* [VIM Adventures](http://vim-adventures.com/)
 
 ### Employment-related challenges
 
