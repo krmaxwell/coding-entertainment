@@ -15,6 +15,8 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 ### [Capture the Flag](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
 
+See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/)
+
 * [Baidu CTF](http://bctf.cn) (in Chinese)
 * [Cryptogeddon](http://cryptogeddon.com)
 * [CTF365](http://ctf365.com)
@@ -31,6 +33,8 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Sphere Online Judge](http://www.spoj.com/problems/classical/)
 * [Stack Exchange list](http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
 * [ThreatSPACE](http://threatspace.net)
+* [Treasure Hunt](http://treasure.pwnies.dk)
+* [XSS Game](https://xss-game.appspot.com)
 
 ### [Crackmes](http://en.wikipedia.org/wiki/Crackme)
 
@@ -101,6 +105,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Regex Crossword](http://regexcrossword.com)
 * [Robocode](http://robocode.sourceforge.net)
 * [TORCS Racing Board](http://www.berniw.org/trb/)
+* [Verigames](http://www.verigames.com)
 * [VIM Adventures](http://vim-adventures.com/)
 
 ### Employment-related challenges
@@ -110,6 +115,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 * [Leetcode](http://leetcode.com)
 * [Praetorian Tech Puzzles](http://www.praetorian.com/challenges/)
+* [TopCoder](https://www.topcoder.com)
 
 ### Language-specific
 
