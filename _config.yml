@@ -1,0 +1,7 @@
+markdown: redcarpet
+pygments: true
+
+title_tag_text: Hackertainment, a list of sites for coding and security fun
+h1_tag_text: Hackertainment
+
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
