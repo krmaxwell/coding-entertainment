@@ -1,6 +1,8 @@
 # Presentation Notes
 
-## Abstract for DEFCON 22
+## [Slides](https://speakerdeck.com/technoskald/hackertainment)
+
+## Abstract
 
 Rather than raid for more epic purples on your Level 90 Dwarven Warrior or boomheadshot some n00bs, you can spend your "gaming" time doing what we love best: hacking for sheer entertainment value. We'll talk about all sorts of different ways to do this, from hacking CTFs to mathlete coding competions.
 
