@@ -55,6 +55,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/)
 ### [Code Golf](http://en.wikipedia.org/wiki/Code_golf)
 
 * [Anarchy Golf](http://golf.shinh.org)
+* [Golfscript](http://www.golfscript.com)
 * [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com)
 * [Regex Golf](http://regex.alf.nu)
 * [Vim Golf](http://vimgolf.com)
