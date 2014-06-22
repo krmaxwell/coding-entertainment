@@ -32,6 +32,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/)
 * [ThreatSPACE](http://threatspace.net)
 * [Treasure Hunt](http://treasure.pwnies.dk)
 * [XSS Game](https://xss-game.appspot.com)
+* [Hack This Site](http://www.hackthissite.org)
 
 ### [Crackmes](http://en.wikipedia.org/wiki/Crackme)
 
