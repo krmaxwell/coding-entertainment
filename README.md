@@ -47,7 +47,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/)
 
 * [Bluehat Challenge](http://blogs.technet.com/b/srd/archive/2013/07/31/the-bluehat-challenge.aspx)
 * [Crack Me If You Can](http://contest.korelogic.com) (password cracking)
-* [Matasano Crypto Challenges](http://www.matasano.com/articles/crypto-challenges/)
+* [Matasano Crypto Challenges](http://cryptopals.com)
 * [Pentester Lab](http://www.pentesterlab.com/exercises/)
 * [VulnHub](http://vulnhub.com/)
 
