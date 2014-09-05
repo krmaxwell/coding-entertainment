@@ -12,7 +12,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 ### [Capture the Flag](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
 
-See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/)
+See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and [How to Get Started in CTF](http://www.endgame.com/blog/how-to-get-started-in-ctf.html).
 
 * [Baidu CTF](http://bctf.cn) (in Chinese)
 * [Cryptogeddon](http://cryptogeddon.com)
