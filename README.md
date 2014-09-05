@@ -82,6 +82,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [Open Directory Project - Programming Contests](http://www.dmoz.org/Computers/Programming/Contests/)
 * [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
 * [Project Euler](http://projecteuler.net)
+* [Rosalind](http://rosalind.info/problems/locations/) (Python and bioinformatics)
 * [TopCoder](http://community.topcoder.com/tc)
 * [Tuenti Challenges](https://contest.tuenti.net/Challenges)
 * [Underhanded C Contest](http://underhanded.xcott.com)
