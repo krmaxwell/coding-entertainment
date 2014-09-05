@@ -81,6 +81,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [International Olympiad in Informatics](http://www.ioinformatics.org)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
 * [Kaggle](http://www.kaggle.com/competitions)
+* [Leada](http://www.teamleada.com/projects)
 * [Mystery Twister](https://www.mysterytwisterc3.org/en/)
 * [Open Directory Project - Programming Contests](http://www.dmoz.org/Computers/Programming/Contests/)
 * [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
