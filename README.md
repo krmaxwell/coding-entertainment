@@ -107,6 +107,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [Kodable](http://www.kodable.com)
 * [Mouse Run](http://mouse-run.appspot.com)
 * [NessBots](http://www.nessbots.com)
+* [Problem of the Day](http://www.problemotd.com)
 * [Regex Crossword](http://regexcrossword.com)
 * [Robocode](http://robocode.sourceforge.net)
 * [RoboZZle](http://www.robozzle.com)
