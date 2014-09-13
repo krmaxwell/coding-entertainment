@@ -4,6 +4,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 ## General Resources
 * [CTF Time](http://ctftime.org/event/list/)
+* [Codecademy](http://codecademy.com) (Interactively learn various programming languages working through examples and challenges)
 * [Code Kata](http://codekata.com/) (Routine exercises to keep chops sharp)
 * [Coders Dojo](http://www.codersdojo.org/)
 * [Pineapple challenges](http://pineapple.io/resources/tagged/challenges)
