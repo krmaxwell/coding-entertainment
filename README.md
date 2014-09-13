@@ -139,5 +139,6 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 * [Python Challenge](http://www.pythonchallenge.com)
 * [Ruby Quiz](http://rubyquiz.com)
+* [Ruby Koans](http://rubykoans.com/) (The Ruby Path to Enlightenment)
 * [Rubeque](http://www.rubeque.com)
 * [Untrusted](http://alex.nisnevich.com/untrusted/) (Javascript game)
