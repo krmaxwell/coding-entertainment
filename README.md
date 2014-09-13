@@ -8,6 +8,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 * [Coders Dojo](http://www.codersdojo.org/)
 * [Pineapple challenges](http://pineapple.io/resources/tagged/challenges)
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
+* [/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer)
 * [Stack Overflow list](http://web.archive.org/web/20131005164353/http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
 * [We Chall](http://www.wechall.net/)
 
