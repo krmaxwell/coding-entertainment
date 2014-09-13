@@ -5,6 +5,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 ## General Resources
 * [CTF Time](http://ctftime.org/event/list/)
 * [Code Kata](http://codekata.com/) (Routine exercises to keep chops sharp)
+* [Coders Dojo](http://www.codersdojo.org/)
 * [Pineapple challenges](http://pineapple.io/resources/tagged/challenges)
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
 * [Stack Overflow list](http://web.archive.org/web/20131005164353/http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
