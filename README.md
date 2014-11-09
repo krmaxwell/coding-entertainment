@@ -4,8 +4,12 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 
 ## General Resources
 * [CTF Time](http://ctftime.org/event/list/)
+* [Codecademy](http://codecademy.com) (Interactively learn various programming languages working through examples and challenges)
+* [Code Kata](http://codekata.com/) (Routine exercises to keep chops sharp)
+* [Coders Dojo](http://www.codersdojo.org/)
 * [Pineapple challenges](http://pineapple.io/resources/tagged/challenges)
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
+* [/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer)
 * [Stack Overflow list](http://web.archive.org/web/20131005164353/http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
 * [We Chall](http://www.wechall.net/)
 
@@ -141,5 +145,6 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 * [Python Challenge](http://www.pythonchallenge.com)
 * [Ruby Quiz](http://rubyquiz.com)
+* [Ruby Koans](http://rubykoans.com/) (The Ruby Path to Enlightenment)
 * [Rubeque](http://www.rubeque.com)
 * [Untrusted](http://alex.nisnevich.com/untrusted/) (Javascript game)
