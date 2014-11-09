@@ -99,6 +99,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [CeeBot](http://www.ceebot.com/ceebot/index-e.php)
 * [CheckiO](http://www.checkio.org)
 * [CodeCombat](http://codecombat.com)
+* [CodinGame](http://www.codingame.com/)
 * [COLOBOT](http://www.ceebot.com/colobot/game-e.php)
 * [Command Line Murders](https://github.com/veltman/clmystery)
 * [Corewar](http://corewar.co.uk)
