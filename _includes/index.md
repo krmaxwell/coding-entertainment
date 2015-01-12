@@ -5,13 +5,13 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 ## General Resources
 * [CTF Time](http://ctftime.org/event/list/)
 * [Codecademy](http://codecademy.com) (Interactively learn various programming languages working through examples and challenges)
-* [Code Kata](http://codekata.com/) (Routine exercises to keep chops sharp)
-* [Coders Dojo](http://www.codersdojo.org/)
+* [Code Kata](http://codekata.com) (Routine exercises to keep chops sharp)
+* [Coders Dojo](http://www.codersdojo.org)
 * [Pineapple challenges](http://pineapple.io/resources/tagged/challenges)
 * [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
 * [/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer)
 * [Stack Overflow list](http://web.archive.org/web/20131005164353/http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
-* [We Chall](http://www.wechall.net/)
+* [We Chall](http://www.wechall.net)
 
 ## Security
 
@@ -22,21 +22,27 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [Baidu CTF](http://bctf.cn) (in Chinese)
 * [Cryptogeddon](http://cryptogeddon.com)
 * [CTF365](http://ctf365.com)
+* [DC3 Cyber Crime Challenges](http://www.dc3.mil/challenge/)
 * [Embedded Security](https://microcorruption.com)
+* [Gruyere](http://google-gruyere.appspot.com)
 * [Hack This Site](http://www.hackthissite.org)
+* [Hacking-Labs](https://www.hacking-lab.com/index.html)
 * [ISIS Lab CTF Challenges repository](https://github.com/isislab/CTF-Challenges)
 * [NICCS Cyber Competitions Repository](http://niccs.us-cert.gov/education/cyber-competitions-repository)
+* [Network Forensics Puzzle Contest](http://forensicscontest.com/)
+* [Notpron](http://notpron.org/notpron/)
 * [OverTheWire Wargames](http://www.overthewire.org/wargames/)
-* [Hacking-Labs](https://www.hacking-lab.com/index.html)
 * [p0wnlabs](http://p0wnlabs.com)
 * [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/Practice.html)
 * [Practice CTF List](http://captf.com/practice-ctf/)
+* [Pwn Adventure](http://pwnadventure.com)
 * [RootMe](http://www.root-me.org/en/Challenges/)
 * [SmashTheStack Wargaming](http://smashthestack.org)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical/)
 * [Stack Exchange list](http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
 * [ThreatSPACE](http://threatspace.net)
 * [Treasure Hunt](http://treasure.pwnies.dk)
+* [XSS Challenge Wiki](https://github.com/cure53/xss-challenge-wiki/wiki)
 * [XSS Game](https://xss-game.appspot.com)
 
 ### [Crackmes](http://en.wikipedia.org/wiki/Crackme)
@@ -57,7 +63,8 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [Insecure Programming by example](http://community.coresecurity.com/~gera/InsecureProgramming/)
 * [Matasano Crypto Challenges](http://cryptopals.com)
 * [Pentester Lab](http://www.pentesterlab.com/exercises/)
-* [VulnHub](http://vulnhub.com/)
+* [Skullspace](http://www.skullspace.net/2011/01-level/secretchallenge.php)
+* [VulnHub](http://vulnhub.com)
 
 ## Programming
 
@@ -104,12 +111,15 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [CeeBot](http://www.ceebot.com/ceebot/index-e.php)
 * [CheckiO](http://www.checkio.org)
 * [CodeCombat](http://codecombat.com)
-* [CodinGame](http://www.codingame.com/)
+* [CodinGame](http://www.codingame.com)
 * [COLOBOT](http://www.ceebot.com/colobot/game-e.php)
 * [Command Line Murders](https://github.com/veltman/clmystery)
 * [Corewar](http://corewar.co.uk)
 * [Crobots](https://github.com/tpoindex/crobots/)
+* [Data Year](https://www.teamleada.com/data-year)
 * [DroidQuest](http://www.droidquest.com)
+* [Exercism](http://exercism.io)
+* [Git-game](https://github.com/hgarc014/git-game)
 * [Glitchspace](https://indiegamestand.com/store/796/glitchspace/)
 * [Grobots](http://grobots.sourceforge.net)
 * [Hack 'n' Slash](http://www.hacknslashthegame.com)
@@ -125,7 +135,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [SpaceChem](http://www.spacechemthegame.com)
 * [TORCS Racing Board](http://www.berniw.org/trb/)
 * [Verigames](http://www.verigames.com)
-* [VIM Adventures](http://vim-adventures.com/)
+* [VIM Adventures](http://vim-adventures.com)
 
 ### Employment-related challenges
 
@@ -138,7 +148,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 
 ### Language-specific
 
-* [4Clojure](http://www.4clojure.com/)
+* [4Clojure](http://www.4clojure.com)
 * [C Puzzles](http://www.gowrikumar.com/c/)
 * [CodingBat](http://codingbat.com) (Java and Python)
 * [Dyalog APL Competition](http://www.dyalogaplcompetition.com)
@@ -146,6 +156,6 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 * [Python Challenge](http://www.pythonchallenge.com)
 * [Ruby Quiz](http://rubyquiz.com)
-* [Ruby Koans](http://rubykoans.com/) (The Ruby Path to Enlightenment)
+* [Ruby Koans](http://rubykoans.com) (The Ruby Path to Enlightenment)
 * [Rubeque](http://www.rubeque.com)
 * [Untrusted](http://alex.nisnevich.com/untrusted/) (Javascript game)
