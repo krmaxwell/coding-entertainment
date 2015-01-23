@@ -67,6 +67,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [Matasano Crypto Challenges](http://cryptopals.com)
 * [Pentester Lab](http://www.pentesterlab.com/exercises/)
 * [Skullspace](http://www.skullspace.net/2011/01-level/secretchallenge.php)
+* [Trythis0ne](http://www.trythis0ne.com)
 * [VulnHub](http://vulnhub.com)
 
 ## Programming
@@ -81,12 +82,14 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 
 ### [Contests](http://en.wikipedia.org/wiki/Competitive_programming)
 
+* [A2 Online Judge](http://www.ahmed-aly.com)
 * [Al Zimmerman's Programming Contests](http://www.azspcs.net)
 * [Annual Berkeley Programming Contest](http://www.cs.berkeley.edu/~hilfingr/programming-contest/index.html)
 * [Cloudball](http://www.cloudball.se)
 * [Code Chef](http://www.codechef.com)
 * [Codeforces](http://codeforces.com)
 * [Codewars](http://www.codewars.com)
+* [Croatian Open Competition in Informatics](http://hsin.hr/coci/)
 * [Eudyptula Challenge](http://eudyptula-challenge.org) (Linux kernel challenge)
 * [Google Code Jam](https://code.google.com/codejam/contests.html)
 * [HackerRank](https://www.hackerrank.com)
@@ -121,6 +124,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [Crobots](https://github.com/tpoindex/crobots/)
 * [Data Year](https://www.teamleada.com/data-year)
 * [DroidQuest](http://www.droidquest.com)
+* [Elevator Saga](http://play.elevatorsaga.com)
 * [Exercism](http://exercism.io)
 * [Git-game](https://github.com/hgarc014/git-game)
 * [Glitchspace](https://indiegamestand.com/store/796/glitchspace/)
