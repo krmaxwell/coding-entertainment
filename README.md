@@ -81,7 +81,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 
 ### [Contests](http://en.wikipedia.org/wiki/Competitive_programming)
 
-* [A2 Online Judge](http://www.ahmed-aly.com/?all)
+* [A2 Online Judge](http://www.ahmed-aly.com)
 * [Al Zimmerman's Programming Contests](http://www.azspcs.net)
 * [Annual Berkeley Programming Contest](http://www.cs.berkeley.edu/~hilfingr/programming-contest/index.html)
 * [Cloudball](http://www.cloudball.se)
