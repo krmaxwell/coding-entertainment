@@ -81,12 +81,14 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 
 ### [Contests](http://en.wikipedia.org/wiki/Competitive_programming)
 
+* [A2 Online Judge](http://www.ahmed-aly.com/?all)
 * [Al Zimmerman's Programming Contests](http://www.azspcs.net)
 * [Annual Berkeley Programming Contest](http://www.cs.berkeley.edu/~hilfingr/programming-contest/index.html)
 * [Cloudball](http://www.cloudball.se)
 * [Code Chef](http://www.codechef.com)
 * [Codeforces](http://codeforces.com)
 * [Codewars](http://www.codewars.com)
+* [Croatian Open Competition in Informatics](http://hsin.hr/coci/)
 * [Eudyptula Challenge](http://eudyptula-challenge.org) (Linux kernel challenge)
 * [Google Code Jam](https://code.google.com/codejam/contests.html)
 * [HackerRank](https://www.hackerrank.com)
