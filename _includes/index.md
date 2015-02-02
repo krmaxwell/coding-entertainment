@@ -62,6 +62,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 * [Crack Me If You Can](http://contest.korelogic.com) (password cracking)
 * [DFRWS Challenges](http://www.dfrws.org/archives.shtml) (linked from individual years)
 * [Exploit Exercises](http://exploit-exercises.com)
+* [Game of Hacks](http://www.gameofhacks.com)
 * [HECF Sunday Funday Challenges](http://hackingexposedcomputerforensicsblog.blogspot.com/search/label/sunday%20funday)
 * [Insecure Programming by example](http://community.coresecurity.com/~gera/InsecureProgramming/)
 * [Matasano Crypto Challenges](http://cryptopals.com)
