@@ -20,6 +20,7 @@ NOTE: This list is in the public domain but I would appreciate a link back or at
 See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and [How to Get Started in CTF](http://www.endgame.com/blog/how-to-get-started-in-ctf.html).
 
 * [Baidu CTF](http://bctf.cn) (in Chinese)
+* [BTC Piñata](http://ownme.ipredator.se/)
 * [Cryptogeddon](http://cryptogeddon.com)
 * [CTF365](http://ctf365.com)
 * [DC3 Cyber Crime Challenges](http://www.dc3.mil/challenge/)
