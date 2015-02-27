@@ -21,6 +21,7 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 
 * [Baidu CTF](http://bctf.cn) (in Chinese)
 * [BTC Piñata](http://ownme.ipredator.se/)
+* [Codegate](http://codegate.grayhash.com)
 * [Cryptogeddon](http://cryptogeddon.com)
 * [CTF365](http://ctf365.com)
 * [DC3 Cyber Crime Challenges](http://www.dc3.mil/challenge/)
