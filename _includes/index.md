@@ -75,6 +75,7 @@ CTF](http://www.endgame.com/blog/how-to-get-started-in-ctf.html).
 -   [Crackmes.us](http://www.crackmes.us)
 -   [DesrevereDD0f](http://f0dder.reteam.org/crackmes.htm)
 -   [FLARE On Challenge](http://flare-on.com)
+-   [JoinESET](http://joineset.com/jobs-analyst.html)
 -   [NotPron](http://notpron.org/notpron/)
 -   [Radare
     examples](http://radare.nopcode.org/wiki/index.php?n=Examples.Crackme)
