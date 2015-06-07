@@ -126,6 +126,7 @@ Programming
 -   [Eudyptula Challenge](http://eudyptula-challenge.org) (Linux kernel
     challenge)
 -   [Google Code Jam](https://code.google.com/codejam/contests.html)
+-   [HackerEarth](https://www.hackerearth.com)
 -   [HackerRank](https://www.hackerrank.com)
 -   [Hello World Open](https://helloworldopen.com)
 -   [International Conference on Functional Programming
