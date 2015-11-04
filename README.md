@@ -187,6 +187,7 @@ Programming
 
 ### Employment-related challenges
 
+-   [Interview Cake](https://www.interviewcake.com)
 -   [CodeEval](https://www.codeeval.com)
 -   [Coding for Interviews](http://codingforinterviews.com)
 -   [Facebook Programming
