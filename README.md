@@ -199,7 +199,7 @@ Programming
 ### Language-specific
 
 -   [4Clojure](http://www.4clojure.com)
--   [C Puzzles](http://www.gowrikumar.com/c/)
+-   [C Puzzles](http://www.gowrikumar.com/c/index.php)
 -   [CodingBat](http://codingbat.com) (Java and Python)
 -   [Dyalog APL Competition](http://www.dyalogaplcompetition.com)
 -   [Programming Praxis](http://programmingpraxis.com) (Scheme)
