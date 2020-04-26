@@ -182,16 +182,13 @@ Programming
 -   [RoboZZle](http://www.robozzle.com)
 -   [SpaceChem](http://www.spacechemthegame.com)
 -   [TORCS Racing Board](http://www.berniw.org/trb/)
--   [Verigames](http://www.verigames.com)
 -   [VIM Adventures](http://vim-adventures.com)
 
 ### Employment-related challenges
 
 -   [Interview Cake](https://www.interviewcake.com)
--   [CodeEval](https://www.codeeval.com)
 -   [Coding for Interviews](http://codingforinterviews.com)
--   [Facebook Programming
-    Challenge](https://facebook.interviewstreet.com/recruit/challenges)
+-   [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
 -   [Leetcode](http://leetcode.com)
 -   [Praetorian Tech Puzzles](http://www.praetorian.com/challenges/)
 -   [TopCoder](https://www.topcoder.com)
@@ -199,7 +196,6 @@ Programming
 ### Language-specific
 
 -   [4Clojure](http://www.4clojure.com)
--   [C Puzzles](http://www.gowrikumar.com/c/)
 -   [CodingBat](http://codingbat.com) (Java and Python)
 -   [Dyalog APL Competition](http://www.dyalogaplcompetition.com)
 -   [Programming Praxis](http://programmingpraxis.com) (Scheme)
@@ -208,5 +204,4 @@ Programming
 -   [Python Challenge](http://www.pythonchallenge.com)
 -   [Ruby Quiz](http://rubyquiz.com)
 -   [Ruby Koans](http://rubykoans.com) (The Ruby Path to Enlightenment)
--   [Rubeque](http://www.rubeque.com)
 -   [Untrusted](http://alex.nisnevich.com/untrusted/) (Javascript game)
