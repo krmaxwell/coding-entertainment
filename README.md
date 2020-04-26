@@ -34,7 +34,6 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 -   [Codegate](http://codegate.grayhash.com)
 -   [Cryptogeddon](http://cryptogeddon.com)
 -   [CTF365](http://ctf365.com)
--   [DC3 Cyber Crime Challenges](http://www.dc3.mil/challenge/)
 -   [Embedded Security](https://microcorruption.com)
 -   [Gruyere](http://google-gruyere.appspot.com)
 -   [Hack This Site](http://www.hackthissite.org)
@@ -58,11 +57,8 @@ See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and 
 ### [Crackmes](http://en.wikipedia.org/wiki/Crackme)
 
 -   [DesrevereDD0f](http://f0dder.reteam.org/crackmes.htm)
--   [FLARE On Challenge](http://flare-on.com)
 -   [NotPron](http://notpron.org/notpron/)
--   [Radare examples](http://radare.nopcode.org/wiki/index.php?n=Examples.Crackme)
 -   [Think Devise Hack](http://tdhack.com)
--   [Tuts 4 You](https://tuts4you.com/download.php?list.61)
 
 ### Other
 
@@ -129,7 +125,6 @@ Programming
 -   [Elevator Saga](http://play.elevatorsaga.com)
 -   [Exercism](http://exercism.io)
 -   [Git-game](https://github.com/hgarc014/git-game)
--   [Glitchspace](https://indiegamestand.com/store/796/glitchspace/)
 -   [Grobots](http://grobots.sourceforge.net)
 -   [Hack 'n' Slash](http://www.hacknslashthegame.com)
 -   [Infon Battle Arena](http://infon.dividuum.de)
