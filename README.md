@@ -103,6 +103,7 @@ Programming
 -   [Regex Crossword](http://regexcrossword.com)
 -   [Robocode](http://robocode.sourceforge.net)
 -   [RoboZZle](http://www.robozzle.com)
+-   [Scavenger Hunt](https://github.com/pushingice/scavenger-hunt)
 -   [SpaceChem](http://www.spacechemthegame.com)
 -   [TORCS Racing Board](http://www.berniw.org/trb/)
 -   [VIM Adventures](http://vim-adventures.com)
