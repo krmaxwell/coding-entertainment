@@ -20,6 +20,7 @@ General Resources
 Security
 --------
 
+-   [Advent of Code](https://adventofcode.com/)
 -   [BTC Piñata](http://ownme.ipredator.se/)
 -   [Crack Me If You Can](http://contest.korelogic.com) (password cracking)
 -   [Cryptogeddon](http://cryptogeddon.com)
@@ -37,6 +38,7 @@ Security
 -   [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/Practice.html)
 -   [Pentester Lab](http://www.pentesterlab.com/exercises/)
 -   [Pwn Adventure](http://pwnadventure.com)
+-   [Reverse Engineering Challenges](https://challenges.re/)
 -   [RootMe](http://www.root-me.org/en/Challenges/)
 -   [SmashTheStack Wargaming](http://smashthestack.org)
 -   [Stack Exchange list](http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
@@ -83,6 +85,7 @@ Programming
 
 ### [Games](http://programminggames.org)
 
+-   [Beglitched](https://beglitched.net/)
 -   [CeeBot](http://www.ceebot.com/ceebot/index-e.php)
 -   [CheckiO](http://www.checkio.org)
 -   [CodeCombat](http://codecombat.com)
@@ -98,6 +101,7 @@ Programming
 -   [Hack 'n' Slash](http://www.hacknslashthegame.com)
 -   [Infon Battle Arena](http://infon.dividuum.de)
 -   [Kodable](http://www.kodable.com)
+-   [Minecraft Hour of Code](https://code.org/minecraft)
 -   [Mouse Run](http://mouse-run.appspot.com)
 -   [Problem of the Day](http://www.problemotd.com)
 -   [Regex Crossword](http://regexcrossword.com)
@@ -110,10 +114,11 @@ Programming
 
 ### Employment-related challenges
 
--   [Interview Cake](https://www.interviewcake.com)
+-   [CodeSignal](https://codesignal.com/)
 -   [Coding for Interviews](http://codingforinterviews.com)
 -   [HackerEarth](https://www.hackerearth.com)
 -   [HackerRank](https://www.hackerrank.com)
+-   [Interview Cake](https://www.interviewcake.com)
 -   [Leetcode](http://leetcode.com)
 -   [Praetorian Tech Puzzles](http://www.praetorian.com/challenges/)
 -   [TopCoder](https://www.topcoder.com)
