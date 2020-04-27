@@ -1,75 +1,50 @@
-This is a list of puzzles, challenges, games, CTFs, and other
-entertainment via coding. It can include everything from [ACM-style
-competitions](http://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest)
-to challenges designed to teach specific languages or programming
-paradigms. If you would like to see some added, please feel free to open
-an issue or (even better) submit a pull request on the [GitHub
-repository](https://github.com/technoskald/coding-entertainment).
+This is a list of puzzles, challenges, games, and other entertainment via coding. If you would like to see some added, please feel free to open an issue or (even better) submit a pull request on the [GitHub repository](https://github.com/technoskald/coding-entertainment).
 
-NOTE: This list is in the public domain but I would appreciate a link
-back or at least a mention of where you got it if you repost it
-someplace.
+NOTE: This list is in the public domain but I would appreciate a link back or at least a mention of where you got it if you repost it someplace.
+
+Related Awesome Lists
+---------------------
+
+-   [Capture the Flag](https://github.com/apsdehal/awesome-ctf#wargames)
+-   [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 
 General Resources
 -----------------
 
--   [CTF Time](http://ctftime.org/event/list/)
 -   [Codecademy](http://codecademy.com) (Interactively learn various programming languages working through examples and challenges)
 -   [Code Kata](http://codekata.com) (Routine exercises to keep chops sharp)
--   [Coders Dojo](http://www.codersdojo.org)
--   [Pineapple challenges](http://pineapple.io/resources/tagged/challenges)
 -   [/r/programmingchallenges](http://www.reddit.com/r/programmingchallenges)
 -   [/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer)
 -   [Stack Overflow list](http://web.archive.org/web/20131005164353/http://stackoverflow.com/questions/24692/where-can-you-find-fun-educational-programming-challenges)
--   [We Chall](http://www.wechall.net)
 
 Security
 --------
 
-### [Capture the Flag](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
-
-See the [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) and [How to Get Started in CTF](http://www.endgame.com/blog/how-to-get-started-in-ctf.html).
-
 -   [BTC Piñata](http://ownme.ipredator.se/)
--   [Codegate](http://codegate.grayhash.com)
+-   [Crack Me If You Can](http://contest.korelogic.com) (password cracking)
 -   [Cryptogeddon](http://cryptogeddon.com)
--   [CTF365](http://ctf365.com)
+-   [DesrevereDD0f](http://f0dder.reteam.org/crackmes.htm)
 -   [Embedded Security](https://microcorruption.com)
+-   [Game of Hacks](http://www.gameofhacks.com)
 -   [Gruyere](http://google-gruyere.appspot.com)
 -   [Hack This Site](http://www.hackthissite.org)
 -   [Hacking-Labs](https://www.hacking-lab.com/index.html)
--   [ISIS Lab CTF Challenges repository](https://github.com/isislab/CTF-Challenges)
+-   [HECF Sunday Funday Challenges](http://hackingexposedcomputerforensicsblog.blogspot.com/search/label/sunday%20funday)
+-   [Matasano Crypto Challenges](http://cryptopals.com)
 -   [Network Forensics Puzzle Contest](http://forensicscontest.com/)
 -   [Notpron](http://notpron.org/notpron/)
 -   [OverTheWire Wargames](http://www.overthewire.org/wargames/)
--   [p0wnlabs](http://p0wnlabs.com)
 -   [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/Practice.html)
--   [Practice CTF List](http://captf.com/practice-ctf/)
+-   [Pentester Lab](http://www.pentesterlab.com/exercises/)
 -   [Pwn Adventure](http://pwnadventure.com)
 -   [RootMe](http://www.root-me.org/en/Challenges/)
 -   [SmashTheStack Wargaming](http://smashthestack.org)
--   [Sphere Online Judge](http://www.spoj.com/problems/classical/)
 -   [Stack Exchange list](http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
--   [ThreatSPACE](http://threatspace.net)
--   [XSS Challenge Wiki](https://github.com/cure53/xss-challenge-wiki/wiki)
--   [XSS Game](https://xss-game.appspot.com)
-
-### [Crackmes](http://en.wikipedia.org/wiki/Crackme)
-
--   [DesrevereDD0f](http://f0dder.reteam.org/crackmes.htm)
--   [NotPron](http://notpron.org/notpron/)
 -   [Think Devise Hack](http://tdhack.com)
-
-### Other
-
--   [Bluehat Challenge](http://blogs.technet.com/b/srd/archive/2013/07/31/the-bluehat-challenge.aspx)
--   [Crack Me If You Can](http://contest.korelogic.com) (password cracking)
--   [Game of Hacks](http://www.gameofhacks.com)
--   [HECF Sunday Funday Challenges](http://hackingexposedcomputerforensicsblog.blogspot.com/search/label/sunday%20funday)
--   [Matasano Crypto Challenges](http://cryptopals.com)
--   [Pentester Lab](http://www.pentesterlab.com/exercises/)
 -   [Trythis0ne](http://www.trythis0ne.com)
 -   [VulnHub](http://vulnhub.com)
+-   [XSS Challenge Wiki](https://github.com/cure53/xss-challenge-wiki/wiki)
+-   [XSS Game](https://xss-game.appspot.com)
 
 Programming
 -----------
@@ -84,18 +59,14 @@ Programming
 
 ### [Contests](http://en.wikipedia.org/wiki/Competitive_programming)
 
--   [A2 Online Judge](http://www.ahmed-aly.com)
 -   [Al Zimmerman's Programming Contests](http://www.azspcs.net)
 -   [Annual Berkeley Programming Contest](http://www.cs.berkeley.edu/~hilfingr/programming-contest/index.html)
--   [Cloudball](http://www.cloudball.se)
 -   [Code Chef](http://www.codechef.com)
 -   [Codeforces](http://codeforces.com)
 -   [Codewars](http://www.codewars.com)
 -   [Croatian Open Competition in Informatics](http://hsin.hr/coci/)
 -   [Eudyptula Challenge](http://eudyptula-challenge.org) (Linux kernel challenge)
 -   [Google Code Jam](https://code.google.com/codejam/contests.html)
--   [HackerEarth](https://www.hackerearth.com)
--   [HackerRank](https://www.hackerrank.com)
 -   [Hello World Open](https://helloworldopen.com)
 -   [International Conference on Functional Programming Contest](http://icfpc2013.cloudapp.net)
 -   [International Obfuscated C Code Contest](http://ioccc.org)
@@ -106,9 +77,8 @@ Programming
 -   [Programming Contests category on Wikipedia](http://en.wikipedia.org/wiki/Category:Programming_contests)
 -   [Project Euler](http://projecteuler.net)
 -   [Rosalind](http://rosalind.info/problems/locations/) (Python and bioinformatics)
--   [TopCoder](http://community.topcoder.com/tc)
+-   [Sphere Online Judge](http://www.spoj.com/problems/classical/)
 -   [Tuenti Challenges](https://contest.tuenti.net/Challenges)
--   [UVa Online Judge](http://uva.onlinejudge.org)
 -   [uHunt](http://uhunt.felix-halim.net/id/339) (complement to UVa Online Judge)
 
 ### [Games](http://programminggames.org)
@@ -120,15 +90,13 @@ Programming
 -   [COLOBOT](http://www.ceebot.com/colobot/game-e.php)
 -   [Command Line Murders](https://github.com/veltman/clmystery)
 -   [Corewar](http://corewar.co.uk)
--   [Crobots](https://github.com/tpoindex/crobots/)
--   [DroidQuest](http://www.droidquest.com)
+-   [Crobots](http://tpoindex.github.io/crobots/)
 -   [Elevator Saga](http://play.elevatorsaga.com)
 -   [Exercism](http://exercism.io)
 -   [Git-game](https://github.com/hgarc014/git-game)
 -   [Grobots](http://grobots.sourceforge.net)
 -   [Hack 'n' Slash](http://www.hacknslashthegame.com)
 -   [Infon Battle Arena](http://infon.dividuum.de)
--   [Lightbot](http://light-bot.com)
 -   [Kodable](http://www.kodable.com)
 -   [Mouse Run](http://mouse-run.appspot.com)
 -   [Problem of the Day](http://www.problemotd.com)
@@ -143,7 +111,8 @@ Programming
 
 -   [Interview Cake](https://www.interviewcake.com)
 -   [Coding for Interviews](http://codingforinterviews.com)
--   [Facebook Programming Challenge](https://facebook.interviewstreet.com/recruit/challenges)
+-   [HackerEarth](https://www.hackerearth.com)
+-   [HackerRank](https://www.hackerrank.com)
 -   [Leetcode](http://leetcode.com)
 -   [Praetorian Tech Puzzles](http://www.praetorian.com/challenges/)
 -   [TopCoder](https://www.topcoder.com)
