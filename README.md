@@ -82,6 +82,7 @@ Programming
 -   [Sphere Online Judge](http://www.spoj.com/problems/classical/)
 -   [Tuenti Challenges](https://contest.tuenti.net/Challenges)
 -   [uHunt](http://uhunt.felix-halim.net/id/339) (complement to UVa Online Judge)
+-   [Robot Rumble](https://robotrumble.org/) (AI battle platform)
 
 ### [Games](http://programminggames.org)
 
